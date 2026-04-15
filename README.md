@@ -7,9 +7,7 @@
 4. How to run the program:
    
    ★ Install git 
-   ★ Open terminal
-        ⊹ ࣪ ˖ Mac: command + space 
-        ⊹ ࣪ ˖ Windows: window + x
+   ★ Open terminal ( ⊹ ࣪ ˖ Mac: command + space | Windows: window + x)
    ★ Go to the Directory via the cd command 
    ★ Clone the repository through “git clone” + URL of the repository 
 
