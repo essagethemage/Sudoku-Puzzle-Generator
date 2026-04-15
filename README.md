@@ -5,6 +5,7 @@
 3. Short description of the project: 
 
 4. How to run the program:
+   
    ★ Install git 
    ★ Open terminal
         ⊹ ࣪ ˖ Mac: command + space 
@@ -19,9 +20,9 @@ OR
 ★ Use an external program to run the code
 
 
-5.Summary of how the Sudoku board is generated:
+5. Summary of how the Sudoku board is generated:
 
-6.List of files included in the project:
+6. List of files included in the project:
  SudokuGenerator.java: This is the source code.
  README.md: This explains how to execute and follow  along the code
  DesignDocument.pdf or DesignDocument.docx: Provides a in depth explanation of the backbone of the code.
